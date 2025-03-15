@@ -1,0 +1,5 @@
+[
+    {"name": "Real Estate Consulting", "info": "Expert advice for real estate investments"},
+    {"name": "Property Management", "info": "Full-service property management"},
+    {"name": "", "info": "Invalid service entry"} 
+]
