@@ -1,5 +1,94 @@
 [
-    {"name": "Real Estate Consulting", "info": "Expert advice for real estate investments"},
-    {"name": "Property Management", "info": "Full-service property management"},
-    {"name": "", "info": "Invalid service entry"} 
+    {
+        "name": "Real Estate Consulting",
+        "info": "Expert advice for real estate investments"
+    },
+    {
+        "name": "Property Management",
+        "info": "Full-service property management"
+    },
+    {
+        "name": "",
+        "info": "Invalid service entry"
+    },
+    {
+        "name": "AI Consulting",
+        "info": "Expert advice and solutions for artificial intelligence projects."
+    },
+    {
+        "name": "Machine Learning Solutions",
+        "info": "Custom machine learning models and algorithms for your business."
+    },
+    {
+        "name": "Data Analytics",
+        "info": "Advanced data analysis and visualization services."
+    },
+    {
+        "name": "Cybersecurity Audits",
+        "info": "Comprehensive security assessments and vulnerability testing."
+    },
+    {
+        "name": "Blockchain Development",
+        "info": "Building decentralized applications and blockchain solutions."
+    },
+    {
+        "name": "Quantum Computing Research",
+        "info": "Cutting-edge research and development in quantum computing."
+    },
+    {
+        "name": "Robotics Automation",
+        "info": "Design and implementation of robotic systems for automation."
+    },
+    {
+        "name": "Cloud Migration",
+        "info": "Seamless migration of applications and data to the cloud."
+    },
+    {
+        "name": "Software Development",
+        "info": "Custom software solutions tailored to your needs."
+    },
+    {
+        "name": "Digital Marketing Campaigns",
+        "info": "Strategies to boost your online presence and engagement."
+    },
+    {
+        "name": "Financial Planning Services",
+        "info": "Personalized financial advice and investment strategies."
+    },
+    {
+        "name": "Healthcare Management Solutions",
+        "info": "Optimizing healthcare operations and patient care."
+    },
+    {
+        "name": "Environmental Impact Assessments",
+        "info": "Evaluating the environmental impact of projects."
+    },
+    {
+        "name": "Renewable Energy Consulting",
+        "info": "Expert guidance on renewable energy projects."
+    },
+    {
+        "name": "Aerospace Engineering Solutions",
+        "info": "Design and development of aerospace systems."
+    },
+    {
+        "name": "Biotechnology Research",
+        "info": "Innovative research in biotechnology and life sciences."
+    },
+    {
+        "name": "Nanotechnology Applications",
+        "info": "Developing nanotechnology-based solutions."
+    },
+    {
+        "name": "Psychological Counseling",
+        "info": "Professional counseling and mental health support."
+    },
+    {
+        "name": "EdTech Solutions",
+        "info": "Technology-driven solutions for education and training."
+    },
+    {
+        "name": "Supply Chain Optimization",
+        "info": "Streamlining supply chain operations for efficiency."
+    }
 ]

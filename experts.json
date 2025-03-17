@@ -1,5 +1,94 @@
 [
-    {"name": "Ekansh", "expertise": "real estate investment"},
-    {"name": "Aditya", "expertise": "commercial real estate"},
-    {"name": "Prasoon", "expertise": ""}  
+    {
+        "name": "Ekansh",
+        "expertise": "real estate investment"
+    },
+    {
+        "name": "Aditya",
+        "expertise": "commercial real estate"
+    },
+    {
+        "name": "Prasoon",
+        "expertise": ""
+    },
+    {
+        "name": "Aarav",
+        "expertise": "artificial intelligence"
+    },
+    {
+        "name": "Ishaan",
+        "expertise": "machine learning"
+    },
+    {
+        "name": "Riya",
+        "expertise": "data science"
+    },
+    {
+        "name": "Aanya",
+        "expertise": "cybersecurity"
+    },
+    {
+        "name": "Vihaan",
+        "expertise": "blockchain technology"
+    },
+    {
+        "name": "Anika",
+        "expertise": "quantum computing"
+    },
+    {
+        "name": "Arnav",
+        "expertise": "robotics"
+    },
+    {
+        "name": "Saanvi",
+        "expertise": "cloud computing"
+    },
+    {
+        "name": "Advik",
+        "expertise": "software development"
+    },
+    {
+        "name": "Diya",
+        "expertise": "digital marketing"
+    },
+    {
+        "name": "Kabir",
+        "expertise": "financial planning"
+    },
+    {
+        "name": "Myra",
+        "expertise": "healthcare management"
+    },
+    {
+        "name": "Reyansh",
+        "expertise": "environmental science"
+    },
+    {
+        "name": "Aarohi",
+        "expertise": "renewable energy"
+    }, 
+    {
+        "name": "Aryan",
+        "expertise": "aerospace engineering"
+    },
+    {
+        "name": "Anaya",
+        "expertise": "biotechnology"
+    },
+    {
+        "name": "Atharv",
+        "expertise": "nanotechnology"
+    },
+    {
+        "name": "Pari",
+        "expertise": "psychology"
+    },
+    {
+        "name": "Ishani",
+        "expertise": "education technology"
+    },
+    {
+        "name": "Vivaan",
+        "expertise": "supply chain management"
+    }
 ]
